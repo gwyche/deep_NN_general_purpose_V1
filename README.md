@@ -4,7 +4,7 @@ This is a Java-based deep neural network primitive based upon the unit installed
 
 After the neural net class is instantiated, a training method within it is called and fed model paramaters and the location of a training data CSV. Training squared error is printed to console in real-time. Once trained, an evaluation subset of the training CSV is automatically used to test model accuracy. The NN's model is then stored in a private attribute. With this out of the way, a seperate method within the NN can be called, now or later, to study an unclassified specimen by passing that specimen in in the form of an array as an argument. The method will return a 1 dimensional array containing the classification vector. This method will refuse to operate if the model is not trained.
 
-For more information about the general operation of the neural net and the dataset, see this link on my blog: [Pulsar Classification](https://gwyche.wordpress.com/2019/08/06/pulsar-classification/). Note that this blog article was written when I was still feeding the neural network data from a database inside a Spring MVC application.
+For more information about the general operation of the neural network and the dataset, visit my blog article: [Pulsar Classification](https://gwyche.wordpress.com/2019/08/06/pulsar-classification/). Note that this blog article was written when I was still feeding the neural net data from a database inside a Spring MVC application.
 
 This neural network is now functional enough and flexible enough for testing on a diverse range of new datasets. I will report on those experiments in a later blog post.
 
