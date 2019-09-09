@@ -9,7 +9,7 @@ For more information about the general operation of the neural net and the datas
 This neural network is now functional enough and flexible enough for testing on a diverse range of new datasets. I will report on those experiments in a later blog post.
 
 
-###### Please Note
+##### Please Note
 
 This is not intended to form the basis for an enterprise application solving hard real-world problems. There are far more optimized and powerful machine learning implementations out there. I build neural net primitives because it's a fun mathematical and technical challenge that improves my mastery of core principles, allows me to be creative, and affords me an opportunity to educate others about ML. That being said, this little guy might wind up being powerful enough for some fun projects. It has been by far my most gory coding challenge to date. I look forward to finding out what it can do.
 
