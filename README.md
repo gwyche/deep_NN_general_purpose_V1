@@ -6,7 +6,7 @@ After the neural net class is instantiated, a training method within it is calle
 
 For more information about the general operation of the neural network and the dataset, visit my blog article: [Pulsar Classification](https://gwyche.wordpress.com/2019/08/06/pulsar-classification/). Note that this blog article was written when I was still feeding the neural net data from a database inside a Spring MVC application.
 
-This neural network is now functional enough and flexible enough for testing on a diverse range of new datasets. I will report on those experiments in a later blog post.
+This neural network is now functional enough and flexible enough for testing on a diverse range of new datasets. I will report on those experiments in a later blog article.
 
 
 ##### Please Note
